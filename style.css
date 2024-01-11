@@ -35,7 +35,7 @@ main{
 }
 
 .reliable{
-    font-weight: 200;
+    font-weight: 400;
     color: hsl(229, 6%, 66%);
 }
 
@@ -44,7 +44,7 @@ main{
 }
 
 p{
-    font-weight: 200;
+    font-weight: 400;
     color: hsl(229, 6%, 66%);
 }
 
@@ -70,7 +70,7 @@ p{
 .inner-card>p{
     font-size: .8rem;
     margin: .2rem 0 1rem 0;
-
+    font-weight: 200;
 }
 
 .inner-card{
