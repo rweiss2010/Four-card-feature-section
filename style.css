@@ -7,6 +7,10 @@
     box-sizing: border-box;
 }
 
+body{
+    bqckground-color:hsl(0, 0%, 98%);
+}
+
 html{
     font-size: 15px; 
     font-family: "Poppins", sans-serif; 
@@ -129,7 +133,7 @@ p{
     }
     
     .intro{
-        max-width: 40rem;
+        max-width: 35rem;
         margin: auto;
     }
 
